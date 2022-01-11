@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green">#009C07</color>
+    <color name="red">#BD0D00</color>
+    <color name="batman">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteish">#7AC4FF</color>
+    <color name="bat_screen">#2CFFFFFF</color>
+    <color name="action_box_enabled">#3C008EFF</color>
+    <color name="action_box_disabled">#60000000</color>
+    <color name="money">#00FF0A</color>
+</resources>

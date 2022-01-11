@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pocket Weapons</string>
+
+    <string name="materialb1">Batarangs:</string>
+    <string name="materialb2">Batsuits:</string>
+    <string name="materialb3">Batmobil:</string>
+    <string name="materialb4">Money:</string>
+    <string name="messageBox">Hello Master Wayne, it\'s me Alfred.\nLet us produce some Batarangs.</string>
+
+    <string name="switch_self">Self</string>
+    <string name="switch_auto">Auto</string>
+
+<!--    ActionBox Text-->
+    <string name="actionBox">New Feature</string>
+    <string name="actionBoxEvent1">Do Business</string>
+<!--    ActionBox Text-->
+
+</resources>
